@@ -2,3 +2,5 @@ apple
 watermelon
 grapes
 
+banana
+orange
