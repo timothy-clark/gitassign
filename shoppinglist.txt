@@ -4,3 +4,7 @@ grapes
 
 banana
 orange
+
+pear
+strawberry
+
