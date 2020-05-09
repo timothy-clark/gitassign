@@ -1,0 +1,27 @@
+ cd Desktop/gitassign
+ ls
+ vi shoppinglist.txt
+ cat shoppinglist.txt
+ git add shoppinglist.txt
+ git status
+ git commit --m "first commit assignment"
+ git status
+ cat >> shoppinglist.txt
+ cat shoppinglist.txt
+ git add shoppinglist.txt
+ git commit -m "second commit of git assignment"
+ git status
+ git checkout -b user
+ ls
+ vi shoppinglist.txt
+ git add .
+ git commit -m "this is user first commitment"
+ git status
+ git checkout master
+ git merge user
+ git branch -d user
+ git log
+ git checkout 1daee5e
+ cat shoppinglist.txt
+ git history
+
