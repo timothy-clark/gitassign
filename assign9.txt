@@ -1,0 +1,4 @@
+x = list(input("enter a sentence"))
+for i in x:
+    z.update({i:x.count(i)})
+print(z)
